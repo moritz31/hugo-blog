@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://moritz31.github.io/hugo-blog"
 defaultContentLanguage = 'de'
 languageCode = "de-DE"
 title = "Persönlicher Blog"

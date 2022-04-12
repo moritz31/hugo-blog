@@ -1,0 +1,9 @@
+baseURL = ""
+defaultContentLanguage = 'de'
+languageCode = "de-DE"
+title = "Persönlicher Blog"
+theme = "doit"
+
+[params]
+  version = "0.2.X"
+  dateformat = "02.01.2006"
